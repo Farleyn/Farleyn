@@ -4,7 +4,7 @@ I'm a Fullstack Developer with a strong focus on Python.
 I write various programs and create Telegram bots for entertainment, assistance, work—basically, a wide variety of projects.
 
 ## Technologies & Skills
-- **Languages:** Python, Java, C#
+- **Languages:** Python, Java, C/C++, C#
 - **Frameworks & Tools:** Telebot, FastAPI, SQLite, Django basics
 - **Focus Areas:** Versatile programming projects, Telegram bot development, automation, clean and maintainable code
 
