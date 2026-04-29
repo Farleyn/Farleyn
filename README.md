@@ -25,11 +25,12 @@ I am interested not just in using software, but in understanding how it is built
 
 ## 🧩 Stack
 
-* C++
-* WinAPI
-* engine internals (game systems)
-* memory / runtime analysis
-* debugging tools
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![WinAPI](https://img.shields.io/badge/-WinAPI-0078D6?logo=windows&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![x86/x64](https://img.shields.io/badge/-x86%20x64-4EAA25?logo=assemblyscript&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-FF6B6B?logo=hex&logoColor=white)
+![x64dbg](https://img.shields.io/badge/-x64dbg-4A90E2?logo=debug&logoColor=white)
 
 ## 📌 Focus
 
