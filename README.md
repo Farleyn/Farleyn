@@ -27,8 +27,9 @@ I am interested not just in using software, but in understanding how it is built
 
 * C++
 * WinAPI
-* Unreal Engine (SDKs and structures)
-* memory analysis and debugging tools
+* engine internals (game systems)
+* memory / runtime analysis
+* debugging tools
 
 ## 📌 Focus
 
