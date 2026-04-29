@@ -1,24 +1,39 @@
-# Hi, I'm Farleyn 👋
+# 👋 Farleyn
 
-I'm a Fullstack Developer with a strong focus on Python.  
-I write various programs and create Telegram bots for entertainment, assistance, work—basically, a wide variety of projects.
+```cpp
+while (alive)
+{
+    analyze();
+    reverse();
+    build();
+}
+```
 
-## Technologies & Skills
-- **Languages:** Python, Java, C/C++, C#
-- **Frameworks & Tools:** Telebot, FastAPI, SQLite, Django basics
-- **Focus Areas:** Versatile programming projects, Telegram bot development, automation, clean and maintainable code
+## 🧠 About Me
 
-## What I Build
-- Telegram bots for fun, help, productivity, and work-related tasks  
-- A range of useful programs for different needs and workflows  
-- Tools to automate tasks and boost efficiency
+I like exploring how games and applications work under the hood, from high level systems to low level details.
 
-## Projects
-Explore my repositories for open-source utilities, bots, and diverse programming experiments.
+I am interested not just in using software, but in understanding how it is built, how components interact, and what happens at runtime.
 
-## Let’s Connect!
-Feel free to reach out or collaborate on interesting projects!
+## ⚙️ What I Do
 
----
+* reverse engineering (learning and research)
+* runtime analysis
+* working with engine internals
+* experimenting with systems and logic
+* building low level tools in C++
 
-*Thanks for visiting my profile! 🚀*
+## 🧩 Stack
+
+* C++
+* WinAPI
+* Unreal Engine (SDKs and structures)
+* memory analysis and debugging tools
+
+## 📌 Focus
+
+Understanding how things actually work internally, breaking systems down and rebuilding them to learn.
+
+## ⚠️ Note
+
+All work here is for educational and research purposes only.
