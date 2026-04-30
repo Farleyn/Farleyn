@@ -1,5 +1,3 @@
-<h1 align="center">👋 Farleyn</h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Farleyn&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,30" />
 </p>
