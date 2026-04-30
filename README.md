@@ -27,11 +27,8 @@ I care about understanding how systems are built, how their parts interact, and 
 
 <table>
   <tr>
-    <td>
-      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 48 48">
-        <path fill="none" stroke="#8a2be2" stroke-linecap="round" stroke-linejoin="round" d="M16.797 41.478V6.522H30.91l-.644 7.67h-5.973v5.739h5.095v7.377H24.41v12.766zm0-3.366L4.5 39.839l1.113-21.9l-.996-9.485h12.18" stroke-width="2"/>
-        <path fill="none" stroke="#8a2be2" stroke-linecap="round" stroke-linejoin="round" d="M30.748 8.454h12.693l-1.112 8.541L43.5 38.024L24.41 36.92" stroke-width="2"/>
-      </svg>
+    <td align="center" width="60">
+      <img src="https://raw.githubusercontent.com/Farleyn/Farleyn/main/fortnite.svg" width="40" height="40" />
     </td>
     <td valign="middle">
       <b>Fortnite OG Project</b><br/>
