@@ -19,30 +19,44 @@
 
 ## 🧠 About Me
 
-I explore how games and applications work under the hood, from architecture and control flow to runtime behavior and low-level details.
+I explore how games and applications work under the hood, from architecture and control flow to runtime behavior and low-level details. 
 
 I care about understanding how systems are built, how their parts interact, and why they behave the way they do.
 
+## 🔭 Current Work
+
+<table>
+  <tr>
+    <td>
+      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 48 48">
+        <path fill="none" stroke="#8a2be2" stroke-linecap="round" stroke-linejoin="round" d="M16.797 41.478V6.522H30.91l-.644 7.67h-5.973v5.739h5.095v7.377H24.41v12.766zm0-3.366L4.5 39.839l1.113-21.9l-.996-9.485h12.18" stroke-width="2"/>
+        <path fill="none" stroke="#8a2be2" stroke-linecap="round" stroke-linejoin="round" d="M30.748 8.454h12.693l-1.112 8.541L43.5 38.024L24.41 36.92" stroke-width="2"/>
+      </svg>
+    </td>
+    <td valign="middle">
+      <b>Fortnite OG Project</b><br/>
+      Making a Local Fortnite Single Player In-Game DLL for 1.7.2.
+    </td>
+  </tr>
+</table>
+
 ## ⚙️ What I Do
 
-- reverse engineering for learning and research
-- runtime and memory analysis
-- engine internals exploration
-- systems and logic experimentation
-- building low-level tools in C++
+- **Reverse engineering** for learning and research
+- **Runtime and memory analysis** of complex applications
+- **Engine internals exploration** (Unreal Engine & custom engines)
+- **Systems and logic experimentation**
+- **Building low-level tools** in C++
 
 ## 🧩 Stack
 
-**Languages**  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+**Languages** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-**Platform / APIs**  
-![WinAPI](https://img.shields.io/badge/-WinAPI-0078D6?style=flat-square&logo=windows&logoColor=white)
+**Platform / APIs** ![WinAPI](https://img.shields.io/badge/-WinAPI-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![x86/x64](https://img.shields.io/badge/-x86%20%2F%20x64-4EAA25?style=flat-square&logo=assemblyscript&logoColor=white)
 
-**Tools**  
-![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-FF6B6B?style=flat-square&logo=hex&logoColor=white)
+**Tools** ![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-FF6B6B?style=flat-square&logo=hex&logoColor=white)
 ![x64dbg](https://img.shields.io/badge/-x64dbg-4A90E2?style=flat-square&logo=debug&logoColor=white)
 
 ## 📌 Focus
