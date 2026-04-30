@@ -3,21 +3,21 @@
 </p>
 
 <p align="center">
-  <b>Reverse engineering · Runtime analysis · Engine internals · Low-level C++ tooling</b>
+  <b>Reverse Engineering · Runtime Analysis · Engine Internals · Low-level C++</b>
 </p>
 
 ## 🧠 About Me
 
-I like understanding how software works under the hood — from high-level architecture to low-level execution details.
+I like exploring how games and applications work under the hood, from high-level systems to low-level details.
 
-My focus is not just on using tools, but on learning how systems are built, how their parts interact, and what happens at runtime.
+My focus is not just on using software, but on understanding how it is built, how components interact, and what happens at runtime.
 
 ## ⚙️ What I Do
 
 - reverse engineering for learning and research
-- runtime and memory analysis
+- runtime analysis
 - engine internals exploration
-- experimenting with systems, logic, and behavior
+- experimenting with systems and logic
 - building low-level tools in C++
 
 ## 🧩 Stack
@@ -36,7 +36,7 @@ My focus is not just on using tools, but on learning how systems are built, how 
 
 ## 📌 Focus
 
-I like breaking systems down, understanding how they behave, and rebuilding ideas from first principles.
+Understanding how things work internally, breaking systems down, and rebuilding ideas from first principles.
 
 ## ⚠️ Note
 
