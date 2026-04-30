@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>Exploring how software works beneath the surface.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=700&lines=Exploring+how+software+works+beneath+the+surface.;Analyzing+runtime+behavior+and+memory+structures.;Studying+engine+internals+and+control+flow.;Building+low-level+tools+in+C%2B%2B." alt="Typing SVG" />
 </p>
 
 <p align="center">
