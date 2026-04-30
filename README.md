@@ -1,23 +1,34 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Farleyn&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Farleyn&fontSize=52&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,30" />
 </p>
 
 <p align="center">
   <b>Reverse Engineering · Runtime Analysis · Engine Internals · Low-level C++</b>
 </p>
 
+<p align="center">
+  <i>Exploring how software works beneath the surface.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/x86%2Fx64-4EAA25?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+</p>
+
 ## 🧠 About Me
 
-I like exploring how games and applications work under the hood, from high-level systems to low-level details.
+I explore how games and applications work under the hood, from architecture and control flow to runtime behavior and low-level details.
 
-My focus is not just on using software, but on understanding how it is built, how components interact, and what happens at runtime.
+I care about understanding how systems are built, how their parts interact, and why they behave the way they do.
 
 ## ⚙️ What I Do
 
 - reverse engineering for learning and research
-- runtime analysis
+- runtime and memory analysis
 - engine internals exploration
-- experimenting with systems and logic
+- systems and logic experimentation
 - building low-level tools in C++
 
 ## 🧩 Stack
@@ -36,8 +47,12 @@ My focus is not just on using software, but on understanding how it is built, ho
 
 ## 📌 Focus
 
-Understanding how things work internally, breaking systems down, and rebuilding ideas from first principles.
+Breaking systems down, understanding how they work internally, and rebuilding ideas from first principles.
 
 ## ⚠️ Note
 
 All work here is for educational, defensive, and research purposes only.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,30" />
+</p>
