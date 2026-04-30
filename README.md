@@ -32,7 +32,7 @@ I care about understanding how systems are built, how their parts interact, and 
     </td>
     <td valign="middle">
       <b>Fortnite OG Project</b><br/>
-      Making a Local Fortnite Single Player In-Game DLL for 1.7.2.
+      Making a Local Single Player In-Game DLL for 1.7.2.
     </td>
   </tr>
 </table>
