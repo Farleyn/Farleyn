@@ -47,14 +47,23 @@ I care about understanding how systems are built, how their parts interact, and 
 
 ## 🧩 Stack
 
-**Languages** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+<p align="center">
+  <b>Languages</b><br/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+</p>
 
-**Platform / APIs** ![WinAPI](https://img.shields.io/badge/-WinAPI-0078D6?style=flat-square&logo=windows&logoColor=white)
-![x86/x64](https://img.shields.io/badge/-x86%20%2F%20x64-4EAA25?style=flat-square&logo=assemblyscript&logoColor=white)
+<p align="center">
+  <b>Platform / APIs</b><br/>
+  <img src="https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/x86%2Fx64-4EAA25?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+</p>
 
-**Tools** ![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-FF6B6B?style=flat-square&logo=hex&logoColor=white)
-![x64dbg](https://img.shields.io/badge/-x64dbg-4A90E2?style=flat-square&logo=debug&logoColor=white)
+<p align="center">
+  <b>Tools</b><br/>
+  <img src="https://img.shields.io/badge/IDA%20Pro-FF6B6B?style=for-the-badge&logo=hex&logoColor=white" />
+  <img src="https://img.shields.io/badge/x64dbg-4A90E2?style=for-the-badge&logo=debug&logoColor=white" />
+</p>
 
 ## 📌 Focus
 
