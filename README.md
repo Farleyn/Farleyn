@@ -32,7 +32,7 @@ I care about understanding how systems are built, how their parts interact, and 
     </td>
     <td valign="middle">
       <b>Fortnite OG Project</b><br/>
-      Currently working on several projects for version 1.7.2.
+      Currently working on several projects for Season 0.
     </td>
   </tr>
 </table>
