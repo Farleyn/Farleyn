@@ -31,8 +31,8 @@ I care about understanding how systems are built, how their parts interact, and 
       <img src="https://raw.githubusercontent.com/Farleyn/Farleyn/main/fortnite.svg" width="40" height="40" />
     </td>
     <td valign="middle">
-      <b>Fortnite OG Project</b><br/>
-      Currently working on several projects for Season 0.
+      <b>OG Fortnite Project</b><br/>
+      Currently working on several OG Fortnite projects.
     </td>
   </tr>
 </table>
