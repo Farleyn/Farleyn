@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Farleyn&fontSize=72&fontAlign=50&fontAlignY=38&fontColor=F2F2F2&color=gradient&customColorList=0,2,30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Farleyn&fontSize=72&fontAlign=50&fontAlignY=38&fontColor=F2F2F2&color=4C1D95" />
 </p>
 
 <p align="center">
@@ -74,5 +74,5 @@ Breaking systems down, understanding how they work internally, and rebuilding id
 All work here is for educational, defensive, and research purposes only.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=4C1D95" />
 </p>
